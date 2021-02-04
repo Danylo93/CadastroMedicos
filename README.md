@@ -1,11 +1,9 @@
-## Procedimentos
+################# Cadastro de Médicos ###############
 
 # Marquei com:
 
 - ✔ os itens CONCLUIDOS
 - ✘ os itens NÃO CONCLUIDOS
-
-################# Cadastro de Médicos ###############
 
 - Desenvolver um sistema que faça a gestão de cadastros de médicos.
 O Sistema deve suportar as seguintes operações:
