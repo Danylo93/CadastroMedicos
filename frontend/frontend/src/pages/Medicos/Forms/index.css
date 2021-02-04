@@ -1,0 +1,14 @@
+.medico-header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.forms {
+    width: auto;
+    }
+
+.forms form-name-input {
+    width:200px;
+}
